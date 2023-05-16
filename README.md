@@ -1,1 +1,2 @@
 # PluginAuthorizationDemo
+本仓库为仓库插件授权的示例代码
